@@ -3,6 +3,9 @@
 1-Creá una class para el Imperio (los malos) que les genere un background-color red. En el HTML, asignásela a cada uno de ellos en los opening tags de sus <li>.
 2-Hacé lo mismo para los Rebeldes, pero con un background-color blue.
 3-Creá un id para Darth Vader que aumente el tamaño de la letra de su nombre y un id para Luke que lo ponga en itálica.
+
+
+
 4-Creá una class para los Soldados que les defina un borde a rayas usando la propiedad border. Además, aumentá el espacio entre sus letras, usando letter-spacing. 🔍 Buscá en Google qué valores podés darle a la propiedad border.
 5-Modificá la class Apoyo (definida por nosotros en el documento HTML) y centrá los elementos con la propiedad text-align.
 6-Creá una class para las Naves y poné todas las letras de sus nombres en mayúscula.
